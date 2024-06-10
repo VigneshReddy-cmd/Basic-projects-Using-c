@@ -1,0 +1,70 @@
+
+                                                                  7x7 table we have 49 boxex consider each bok is  7 size width then total width is 128-49/2
+leave 39.5 to left and 39,.5 to right
+
+ days ==1      sun...                                                   given space=128
+ dates == 31                          128 spaces
+31/7=5 dabba                                                             formulae === givenspace -need space/2  one from left and one fron right
+ Table of 6x 7 tavble 
+or 7x7 table;
+123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567                  |                    |                   |                    |                   |                   |                   |                    |                   |                   |                   |                |
+                                                                               |                                                                                               |
+                                                                               s------s------s------s------s------s------s------s
+                                                                               |         |        |         |        |        |         |        |
+                                                                               s------s------s------s------s------s------s------s     
+                                                                               |         |        |         |        |        |         |        |                               s= Symbol represents place
+                                                                               s------s------s------s------s------s------s------s
+                                                                               |         |        |         |        |        |         |        |
+                                                                               s------s------s------s------s------s------s------s
+                                                                               |         |        |         |        |        |         |        |
+                                                                               s------s------s------s------s------s------s------s
+                                                                               |         |        |         |        |        |         |        |
+                                                                               s------s------s------s------s------s------s------s
+                                                                               |         |        |         |        |        |         |        |
+                                                                               s------s------s------s------s------s------s------s
+                                                                               |         |        |         |        |        |         |        |
+                                                                               s------s------s------s------s------s------s------s
+ 
+Ou rcalender table is ready then we have to maintain some regularity i.e 
+
+                                        Chars in box drawing
+
+Left corner  218
+┌
+Right top 191
+┐
+Left bottom 192
+└ 
+Right bottom 217
+┘
+
+Top T  “┬”  194
+ Invert/ bottom T   “  ┴  ”  193
+Left T “   ├ ” 195
+Right T  “  ┤”  180
+
+Plus + “  ┼ ”  197
+ Middile joints of the corners “  │ ”  179  vertical line
+   Horizantal line    “   ─ ”   196
+   Spaces    “ ”   32
+
+operations :
+Arrows
+ left arrow: 3̀7    
+up arrow: 38
+right arrow: 39
+down arrow: 40
+
+                                                                                                                                                                 
+                                                                                    
+                                                                                                                                                                                                                                                                                                                      
+
+                                                                
+
+
+
+
+
+
+
+             

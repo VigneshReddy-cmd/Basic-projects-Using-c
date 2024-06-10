@@ -1,0 +1,49 @@
+ DRAW DABBA
+
+previous    128/2  - 32/2
+
+  128spaces   leave 48 fron 2 sides  then we get 8X4 box 
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+123456789012345678901234567890123456789012345678                                           123456789012345678901234567890123456789012345678                                           
+                                                                                               |                                             |
+                                                                                               s--------s--------s--------s--------s
+                                                                                               |           |           |           |           |
+                                                                                               s--------s--------s--------s--------s
+                                                                                               |           |           |           |           |
+                                                                                               s--------s--------s--------s--------s
+                                                                                               |           |           |           |           |                         s= symbol
+                                                                                               s--------s--------s--------s--------s
+                                                                                               |           |           |           |           |
+                                                                                               s--------s--------s--------s--------s 
+                 
+
+Left corner  218
+┌
+Right top 191
+┐
+Left bottom 192
+└ 
+Right bottom 217
+┘
+
+Top T  “┬”  194
+ Invert/ bottom T   “  ┴  ”  193
+Left T “   ├ ” 195
+Right T  “  ┤”  180
+
+Plus + “  ┼ ”  197
+ Middile joints of the corners “  │ ”  179  vertical line
+   Horizantal line    “   ─ ”   196
+   Spaces    “ ”   32
+
+operations :
+Arrows
+ left arrow: 3̀7    
+up arrow: 38
+right arrow: 39
+down arrow: 40
+                                                                
+                                                                                               
+
+
+                                                                                   
